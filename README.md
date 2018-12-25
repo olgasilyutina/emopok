@@ -1,4 +1,4 @@
-##predicting emojiis here, folks
+## predicting emojiis here, folks
 
 ![](https://i.kym-cdn.com/photos/images/original/001/274/468/20b.gif)
 
