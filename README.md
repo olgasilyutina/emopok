@@ -14,11 +14,15 @@ So, how it all works:
 ### Prediction example
 
 **message**: Я в тюрьме всем нашим **ауе** здесь так плохо и одиноко лучше сюда непопадать здесь ломается моя жизнь 
+
 **recommended emojis**: 😭😔😒😪😢
+
 **original emoji**: 😪
 
 
+
 Produced by 
+
 Aina Nurmagombetova 🤙
 Alina Cherepanova 🙋
 Anya Bataeva 🤯
