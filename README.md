@@ -8,6 +8,7 @@ so, how it all works:
 * folder /getting_data_EDA: data loading, preparation and EDA 
 * folder /word_embeddings: CBOW and Skipgram models, clustering, TSNE 
 * folder /rf_classifier: word2vec, LDA, random forest
+* sentiments were predicted here https://github.com/olgasilyutina/socialsent/tree/master
 
 *e.g.*
 
