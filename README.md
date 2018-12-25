@@ -24,5 +24,5 @@ So, how it all works:
 
 ### References
 
-Authored by ![Aina Nurmagombetova](https://github.com/anurma) 🤙 ![Alina Cherepanova](https://github.com/alinacherepanova) 🙋 ![Anya Bataeva](https://github.com/fyzbt/) 🤯 ![Olya Silyutina](https://github.com/olgasilyutina) 🤔
+Authored by [Aina Nurmagombetova](https://github.com/anurma) 🤙 [Alina Cherepanova](https://github.com/alinacherepanova) 🙋 [Anya Bataeva](https://github.com/fyzbt/) 🤯 [Olya Silyutina](https://github.com/olgasilyutina) 🤔
 
