@@ -1,4 +1,4 @@
-## Predicting emojiis here, folks
+## Predicting emojis here, folks
 
 ![](https://i.kym-cdn.com/photos/images/original/001/274/468/20b.gif)
 
@@ -10,6 +10,9 @@ So, how it all works:
 * folder /rf_classifier: word2vec, LDA, random forest
 * sentiments were predicted here https://github.com/olgasilyutina/socialsent/tree/master
 
+### Project presentation
+
+![It is right here](https://docs.google.com/presentation/d/12rhEEjHkti1v-ShISB7ZyFjcgSz55r0_fp1v4CqruYw/edit#slide=id.g4abd79fe6b_0_29)
 
 ### Prediction example
 
@@ -19,12 +22,7 @@ So, how it all works:
 
 **original emoji**: 😪
 
+### References
 
-
-Produced by 
-
-Aina Nurmagombetova 🤙
-Alina Cherepanova 🙋
-Anya Bataeva 🤯
-Olya Silyutina 🤔
+Authored by ![Aina Nurmagombetova](https://github.com/anurma) 🤙 ![Alina Cherepanova](https://github.com/alinacherepanova) 🙋 ![Anya Bataeva](https://github.com/fyzbt/) 🤯 ![Olya Silyutina](https://github.com/olgasilyutina) 🤔
 
