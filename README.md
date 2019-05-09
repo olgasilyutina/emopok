@@ -4,10 +4,18 @@
 
 So, how it all works:
 
-* folder /data: the anonymized dataset used for analysis
-* folder /getting_data_EDA: data loading, preparation and EDA 
-* folder /word_embeddings: CBOW and Skipgram models, clustering, TSNE 
-* folder /rf_classifier: word2vec, LDA, random forest
+But, first, pip install
+
+```
+!pip install -e git+https://github.com/olgasilyutina/emopok.git#egg=emopok
+from emopok import emopok
+emopok.textfeatures()
+```
+
+* data is [here](https://drive.google.com/open?id=1IF_KS-BoSlyDIlaxgBtFCiRwKeGusSs1)
+* models are [here](https://drive.google.com/open?id=1mj8Rj-cDu9st358iSPZ3iLbFnZKFjfKI)
+* you can repeat data preparation process [here](https://github.com/olgasilyutina/emopok/blob/master/emopok_data_pipeline.ipynb)
+* run xgboost [here](https://github.com/olgasilyutina/emopok/blob/master/emopok_xgboost.ipynb)
 * sentiments were predicted here https://github.com/olgasilyutina/socialsent/tree/master
 
 ### Project presentation
@@ -21,6 +29,8 @@ So, how it all works:
 **recommended emojis**: 😭😔😒😪😢
 
 **original emoji**: 😪
+
+more examples [here](http://htmlpreview.github.io/?https://github.com/olgasilyutina/emopok/blob/master/example_predictions.html)
 
 ### References
 
