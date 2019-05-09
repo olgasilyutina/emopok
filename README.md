@@ -4,7 +4,7 @@
 
 So, how it all works:
 
-But, first, pip install
+But first, pip install
 
 ```
 !pip install -e git+https://github.com/olgasilyutina/emopok.git#egg=emopok
