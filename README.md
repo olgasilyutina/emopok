@@ -16,7 +16,7 @@ emopok.textfeatures()
 * models are [here](https://drive.google.com/open?id=1mj8Rj-cDu9st358iSPZ3iLbFnZKFjfKI)
 * you can repeat data preparation process [here](https://github.com/olgasilyutina/emopok/blob/master/emopok_data_pipeline.ipynb)
 * run xgboost [here](https://github.com/olgasilyutina/emopok/blob/master/emopok_xgboost.ipynb)
-* sentiments were predicted here https://github.com/olgasilyutina/socialsent/tree/master
+* sentiments were predicted [here](https://github.com/olgasilyutina/socialsent3/blob/master/example.ipynb)
 
 ### Project presentation
 
