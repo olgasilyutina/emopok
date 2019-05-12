@@ -22,6 +22,8 @@ emopok.textfeatures()
 
 [DataFest 6](https://datafest.ru/) presentation video is [right here](https://youtu.be/tpuKgWVrbMU) ~ 4:22:15
 
+PDF version of our presentation is [here](https://yadi.sk/i/c3lVlUQB42b9Dg)
+
 ### Prediction example
 
 **message**: Я в тюрьме всем нашим **ауе** здесь так плохо и одиноко лучше сюда непопадать здесь ломается моя жизнь 
