@@ -20,7 +20,7 @@ emopok.textfeatures()
 
 ### Project presentation
 
-[DataFest 6](https://datafest.ru/) presentation video is [right here](https://youtu.be/tpuKgWVrbMU) ~ 4:22:15
+[DataFest 6](https://datafest.ru/) presentation video is [right there](https://youtu.be/tpuKgWVrbMU) ~ 4:22:15
 
 PDF version of our presentation is [here](https://docviewer.yandex.ru/view/117475574/?*=oRKHkvpDrceUZJ9joodlkRcQ1gR7InVybCI6InlhLWRpc2stcHVibGljOi8vNzl6WUNQS1BlcFJrN09oZThGWEZtVWd0cEFBYWp6R2hzbk5yZHZwRXRHMVE5cjBBWUd6SFBuWEpRd1ZTTmNNSnEvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PSIsInRpdGxlIjoiemF2dHJhX2RhdGFmZXN0X2Vtb3BvayAoMykgKDEpLnBkZiIsInVpZCI6IjExNzQ3NTU3NCIsInl1IjoiMjU1NDQwOTE1MzM1NzQ3MTciLCJub2lmcmFtZSI6ZmFsc2UsInRzIjoxNTU3NjQ5NTA1MTQxfQ%3D%3D)
 
