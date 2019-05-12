@@ -20,7 +20,8 @@ emopok.textfeatures()
 
 ### Project presentation
 
-[It is right here](https://docs.google.com/presentation/d/12rhEEjHkti1v-ShISB7ZyFjcgSz55r0_fp1v4CqruYw/edit#slide=id.g4abd79fe6b_0_29)
+[It is right here](https://yadi.sk/i/c3lVlUQB42b9Dg)
+[DataFest 6](https://datafest.ru/) presentation video is [here](https://youtu.be/tpuKgWVrbMU) ~ 4:22:15
 
 ### Prediction example
 
